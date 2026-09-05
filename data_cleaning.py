@@ -1,0 +1,11 @@
+import pandas as pd
+df = pd.read_csv("student_performance.csv")
+print("Original Data:")
+print(df)
+print("\nMissing Values:")
+print(df.isnull().sum())
+print("\nDuplicate Rows:")
+print(df.duplicated().sum())
+df = df.drop_duplicates()
+print("\nCleaned Data:")
+print(df)

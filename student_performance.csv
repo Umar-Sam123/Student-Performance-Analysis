@@ -1,0 +1,11 @@
+Student_ID,Name,Gender,Study_Hours,Attendance,Assignment_Score,Internal_Marks,Final_Marks,Result
+101,Rahul,Male,2,65,55,48,52,Pass
+102,Priya,Female,5,88,85,82,90,Pass
+103,Arjun,Male,3,72,65,60,68,Pass
+104,Sneha,Female,6,95,92,90,94,Pass
+105,Kiran,Male,1,50,40,35,38,Fail
+106,Anjali,Female,4,80,78,75,82,Pass
+107,Rohit,Male,2,60,50,45,42,Fail
+108,Divya,Female,5,90,88,85,91,Pass
+109,Vijay,Male,3,75,70,65,72,Pass
+110,Pooja,Female,1,45,35,40,32,Fail
